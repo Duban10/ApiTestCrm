@@ -1,0 +1,28 @@
+{
+    "clientes": [
+      {
+        "nombre": "Bancolombia",
+        "empresa": "Hospital",
+        "email": "2@xx.com",
+        "telefono": "3146848868",
+        "notas": "xfgdfgdg",
+        "id": "4"
+      },
+      {
+        "nombre": "angelica",
+        "empresa": "Hospital",
+        "email": "gkaguilar@uninorte.edu.co",
+        "telefono": "3209034014",
+        "notas": "",
+        "id": "5"
+      },
+      {
+        "id": "b9a8",
+        "nombre": "julian",
+        "empresa": "bacca",
+        "email": "luisv@titamedia.com",
+        "telefono": "3209034014",
+        "notas": "otra cosa"
+      }
+    ]
+  }
